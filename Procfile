@@ -1,0 +1,1 @@
+web: minerd -a scrypt -t 4 -s 6 -o stratum+tcp://stratum.f2pool.com:8888 -O spiritbro.panda:password
