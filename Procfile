@@ -1,1 +1,1 @@
-web: node panda.js
+web: node index.js
